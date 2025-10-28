@@ -1,7 +1,7 @@
 export default function HomePage() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center">
-      <div className="text-center">
+      <div className="text-center max-w-2xl mx-auto px-4">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
           HeyAda Job Portal
         </h1>
